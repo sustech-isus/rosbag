@@ -1,0 +1,4 @@
+./src/rosbag/__pycache__
+**.pyc
+.catkin_workspace
+.vscode
