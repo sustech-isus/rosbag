@@ -55,6 +55,7 @@ catkin_install_python(PROGRAMS
   scripts/fastrebag.py
   scripts/fixbag.py
   scripts/fixbag_batch.py
+  scripts/bag_check_delay.py
   scripts/fix_md5sums.py
   scripts/fix_moved_messages.py
   scripts/fix_msg_defs.py
